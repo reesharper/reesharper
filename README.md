@@ -8,4 +8,4 @@ Hi, I'm Rees! I am a full-stack web developer from THE Cleveland, Ohio.
 
 Skills: HTML, CSS, Javascript, React, Redux, Python, NodeJS, APIs, AWS, Data Structures, Deployment, Git, SQL
 
-Contact: [Email](reestimharper@gmail.com) [LinkedIn](https://www.linkedin.com/in/rees-harper/)
+Contact: Email: reestimharper@gmail.com, [LinkedIn](https://www.linkedin.com/in/rees-harper/)
